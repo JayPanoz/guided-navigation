@@ -307,8 +307,6 @@
 
 ## Tables
 
-> This is an experimental approach illustrating why `tableHead`/`tableBody`/`tableFooter` matter for read aloud.
-
 ### HTML
 
 ```html
@@ -389,8 +387,6 @@
 * End of table.
 
 ## Table cell spans
-
-> This is an experimental approach illustrating how `colspan`/`rowspan` should be voiced.
 
 ### HTML
 
