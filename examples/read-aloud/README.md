@@ -468,7 +468,7 @@
 ### Read-aloud output
 
 * Table with 3 columns and 4 rows.
-* Category: Bakery, spanning 2 rows. Item: Donuts. Quantity: 12.
+* Category: Bakery. Item: Donuts. Quantity: 12.
 * Category: Bakery. Item: Bagels. Quantity: 8.
 * Footer: No stock movement reported for Produce this week.
 * End of table.
