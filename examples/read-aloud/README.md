@@ -166,7 +166,7 @@
         "plain": "And the next pagebreak is in the middle  of a sentence.", 
         "ssml": "And the next pagebreak is in the middle <readium:pagebreak id=\"page5\" /> of a sentence.",
         "language": "en"
-      }
+      },
       "children": [
         {
           "role": ["pagebreak"],
